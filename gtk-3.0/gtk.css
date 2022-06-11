@@ -7178,6 +7178,12 @@ popover.emoji-completion .emoji:hover {
   background: #424242;
 }
 
+
+
+.xfce4-panel.background {
+  background-color: #000000;
+}
+
 /* GTK NAMED COLORS ---------------- use responsibly! */
 /*
 widget text/foreground color */
