@@ -7,5 +7,4 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Adwaita-Nordic
 MetacityTheme=Adwaita-Nordic
-IconTheme=Zafiro-icons
 ButtonLayout=:minimize,maximize,close
